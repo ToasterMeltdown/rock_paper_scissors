@@ -15,6 +15,3 @@ Welcome to the Rock-Paper-Scissors game! This is a simple command-line game wher
 - **Scissors** beats **Paper**
 - **Paper** beats **Rock**
 - If both you and the computer choose the same option, it's a tie.
-
-## Example Gameplay
-
